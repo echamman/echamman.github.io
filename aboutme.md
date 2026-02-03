@@ -5,11 +5,11 @@ subtitle: Embedded Electronics Dev / Coder / Guitar Player / DIY Enthusiast
 ---
 
 ## Overview
-I'm Ethan, I'm a developer and tinkerer with a focus on audio projects! 
+I'm Ethan, I'm a developer and tinkerer with a focus on audio projects! The picture at the top of the website is my cat Finneas, you'll see him pop up on my profiles.
 
 This website is to document my ongoing projects. You can find overviews of these in the top right under 'Projects'. 
 
-At the bottom you'll find my links. GitHub and LinkedIn for my more professional outputs. Pixelfed is where I post my pictures. Youtube has my HW demo(s), and the music is my other youtube where I've posted some jams. 
+At the bottom you'll find my links. GitHub and LinkedIn for my more professional outputs. Pixelfed is where I post my pictures. Youtube has my HW demo(s), and the music icon is my other youtube where I've posted some jams. 
 
 ## Audio Projects
 I started my electronics career by building guitar pedals. They can be simple or complex, and you can never build too many! I will try to post some to this site. 
