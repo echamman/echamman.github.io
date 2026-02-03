@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: "Ethan's website"
+title: "Ethan's Home"
 
 # Your name to show in the footer
 author: Ethan Hamman
@@ -73,7 +73,6 @@ social-network-links:
 #  yelp: yourname
 #  telegram: yourname
 #  calendly: yourname
-#  mastodon: instance.url/@username
 #  bluesky: yourname
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar

@@ -407,6 +407,18 @@
   </li>
   {%- endif -%}
 
+  {%- if network[0] == "pixelfed" -%}
+  <li class="list-inline-item">
+    <a href="https://{{ site.social-network-links.pixelfed}}" title="Pixelfed">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-pixelfed fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Pixelfed</span>
+   </a>
+  </li>
+  {%- endif -%}
+
 {%- endfor -%}
 
 </ul>
