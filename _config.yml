@@ -22,8 +22,8 @@ author: Ethan Hamman
 navbar-links:
   About Me: "aboutme"
   Projects:
-   - Princeton Reverb: "/projects/princetonreverb.md"
-   - DD22 MonoSynth: "/projects/dd22monosynth.md"
+   - Princeton Reverb: "/projects/princetonreverb"
+   - DD22 MonoSynth: "/projects/dd22monosynth"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
