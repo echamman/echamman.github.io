@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Princeton Reverb build blog
+title: Princeton Reverb build blog \#1
 subtitle: Status of my DIY amp
 #cover-img: /assets/img/path.jpg
-#thumbnail-img: /assets/img/thumb.png
-#share-img: /assets/img/path.jpg
+thumbnail-img: /assets/img/princeton.png
+share-img: /assets/img/princeton.png
 tags: [guitar, amp, diy]
 author: Ethan Hamman
 ---
@@ -21,3 +21,5 @@ Here's the chassis:
 I've also received the wire. I ordered 5' of each color which I now feel is probably not enough. It also cost me way too much! I wanted the cloth covered tinned wire for authenticity, not sure if it's worth it..
 
 ![Wire](https://ethanhamman.com/assets/img/wire.jpg)
+
+I'll post again when I receive more parts 
