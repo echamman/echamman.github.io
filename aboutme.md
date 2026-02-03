@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Embedded Electronics Dev, Tinkerer, Guitar Player, etc
+subtitle: Embedded Electronics Dev / Coder / Guitar Player / DIY Enthusiast
 ---
 
 On my page you'll find:
