@@ -4,7 +4,7 @@ title: About Me
 subtitle: Embedded Electronics Dev / Coder / Guitar Player / DIY Enthusiast
 ---
 
-## Overview
+## Introduction
 I'm Ethan, I'm a developer and tinkerer with a focus on audio projects! The picture at the top of the website is my cat Finneas, you'll see him pop up on my profiles.
 
 This website is to document my ongoing projects. You can find overviews of these in the top right under 'Projects'. 
