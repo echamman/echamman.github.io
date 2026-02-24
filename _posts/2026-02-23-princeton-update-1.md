@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Princeton Reverb build blog #2
+title: Princeton Reverb build blog \#2
 subtitle: Parts received
 #cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/princeton.png
+thumbnail-img: /assets/img/amp_tauruswine.jpg
 share-img: /assets/img/princeton.png
 tags: [guitar, amp, diy]
 author: Ethan Hamman
