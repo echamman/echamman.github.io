@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Princeton Reverb build blog 1
+title: Princeton Reverb blog 1
 subtitle: Status of my DIY amp
 #cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/princeton.png
