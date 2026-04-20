@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Princeton Reverb blog 7
-subtitle: The Magic
+subtitle: The Wood
 #cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/cat.jpg
+thumbnail-img: /assets/img/chassis_with_wood.jpg
 share-img: /assets/img/princeton.png
 tags: [guitar, amp, diy]
 author: Ethan Hamman
