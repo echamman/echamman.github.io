@@ -13,7 +13,7 @@ Lots of woodworking this past week.
 
 Firstly, I had to glue up the sides of the cabinet. I expected to have to do a lot more sanding to get the edges to line up but it ended up being relatively straight-forward. The corner clamps I purchased ended up being perfect to get those 90 degree corners. 
 
-Once I got to the last side I had a bit of a shift, I ended up having to force the fit a bit and clamp under strain. I think it'll be ok. Picture 2 in the next set shows the misfit. Maybe this would have been better if I glued all 4 sides at once?
+Once I got to the last side I had a bit of a shift, I ended up having to force the fit a bit and clamp under strain. I think it'll be ok. Picture 3 in the next set shows the misfit. Maybe this would have been better if I glued all 4 sides at once?
 
 ![gluing_1](/assets/img/update8/one_angle_clamped.jpg)
 ![gluing_2](/assets/img/update8/two_corners_glued.jpg)
