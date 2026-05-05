@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Princeton Reverb blog 8
+title: Princeton Reverb blog 9
 subtitle: Final cuts
 #cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/update9/semi_assembled_2.jpg
