@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Princeton Reverb blog 10
-subtitle: Final cuts
+subtitle: Cloth and color
 #cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/update10/sanded.jpg
 share-img: /assets/img/princeton.png
