@@ -63,4 +63,4 @@ Once the bottom was wrapped I used an blade and a hot nail to poke holes in the 
 
 The final product came out way better than expected! Once I wrapped it up it instantly transformed into something that looks store bought. There's certainly some janky areas, but from a casual viewing those don't stand out much. 
 
-Thanks for following the blog posts! I may do another recap post when I have more time about lessons learned and rounding up resources. If you want to hear it in action, check out [update 6: The Magic](/2026-04-03-princeton-update-6.md)
+Thanks for following the blog posts! I may do another recap post when I have more time about lessons learned and rounding up resources. If you want to hear it in action, check out [update 6: The Magic](/2026-04-03-princeton-update-6)
